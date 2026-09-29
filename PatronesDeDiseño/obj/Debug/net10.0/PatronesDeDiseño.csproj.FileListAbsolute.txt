@@ -1,0 +1,15 @@
+D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\net10.0\PatronesDeDiseño.exe
+D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\net10.0\PatronesDeDiseño.deps.json
+D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\net10.0\PatronesDeDiseño.runtimeconfig.json
+D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\net10.0\PatronesDeDiseño.dll
+D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\bin\Debug\net10.0\PatronesDeDiseño.pdb
+D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\net10.0\PatronesDeDiseño.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\net10.0\PatronesDeDiseño.AssemblyInfoInputs.cache
+D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\net10.0\PatronesDeDiseño.AssemblyInfo.cs
+D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\net10.0\PatronesDeDiseño.csproj.CoreCompileInputs.cache
+D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\net10.0\PatronesDeDiseño.dll
+D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\net10.0\refint\PatronesDeDiseño.dll
+D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\net10.0\PatronesDeDiseño.pdb
+D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\net10.0\PatronesDeDiseño.genruntimeconfig.cache
+D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\net10.0\ref\PatronesDeDiseño.dll
+D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\net10.0\Patrones.B02E8541.Up2Date
