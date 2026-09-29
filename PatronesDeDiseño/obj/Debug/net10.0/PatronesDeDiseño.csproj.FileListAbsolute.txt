@@ -13,3 +13,4 @@ D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\net10.0\PatronesD
 D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\net10.0\PatronesDeDiseño.genruntimeconfig.cache
 D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\net10.0\ref\PatronesDeDiseño.dll
 D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\net10.0\Patrones.B02E8541.Up2Date
+D:\projectCsharp\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\net10.0\PatronesDeDiseño.sourcelink.json
